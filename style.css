@@ -654,6 +654,21 @@ a {
     color: #212121!important;
 }
 
+.presentation {
+    font-size: 22px;
+}
+
+.citation {
+    font-size: 19px;
+}
+
+.citation-2 {
+    font-size: 14px;
+}
+.realisation {
+    font-size: 22px;
+}
+
 .container {
     max-width: 1000px;
 }
