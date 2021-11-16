@@ -282,6 +282,9 @@ a:hover {
     padding-right: 0;
     padding-left: 0;
 }
+.row {
+    text-align: center;
+}
 
 #bloc-1-hero h1 {
     font-size: 32px;
@@ -322,12 +325,23 @@ a:hover {
     z-index: 1;
 }
 
+.navbar .navbar-contact {
+    margin-right: 160px;
+}
+
 .nav > li {
     float: left;
     margin-top: 4px;
     font-size: 16px;
 }
 
+.nav > .li-contact {
+    float: left;
+    margin: 4px 40px 0px 0px;
+    font-size: 16px;
+    list-style: none;
+    text-decoration: none;
+}
 .navbar-nav .open .dropdown-menu > li > a {
     text-align: inherit;
 }
@@ -667,10 +681,6 @@ a {
 }
 .realisation {
     font-size: 22px;
-}
-
-.container {
-    max-width: 1000px;
 }
 
 .hero-bloc-text {
