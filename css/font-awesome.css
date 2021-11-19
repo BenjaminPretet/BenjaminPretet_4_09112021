@@ -800,11 +800,13 @@
 }
 
 .fa-twitter:before {
+    margin-right: 10px;
     content: "\f099"
 }
 
 .fa-facebook-f:before,
 .fa-facebook:before {
+    margin-right: 10px;
     content: "\f09a"
 }
 
@@ -1576,6 +1578,7 @@
 }
 
 .fa-instagram:before {
+    margin-right: 10px;
     content: "\f16d"
 }
 
@@ -1636,6 +1639,7 @@
 }
 
 .fa-dribbble:before {
+    margin-right: 10px;
     content: "\f17d"
 }
 
